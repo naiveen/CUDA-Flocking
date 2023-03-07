@@ -5,5 +5,4 @@ Atchuth Naveen
 
 Tested on: Windows 22, Ryzen 9, GTX 3050Ti 4GB
 
-### (TODO: Your README)
 ![Boids Simulation](boids.gif)
